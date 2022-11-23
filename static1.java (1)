@@ -1,0 +1,11 @@
+
+public class static1{
+    static{
+        System. out. println("hi");
+    }
+    public static void main(String [ ]arge){
+        static1 t=new static1();
+        
+       
+    }
+}

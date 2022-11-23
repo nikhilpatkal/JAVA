@@ -1,0 +1,15 @@
+
+public class nikhil{
+    void show(int a){
+        System. out. println("int methods ");
+    }
+    void show(String a){
+        System. out. println(" String method ");
+    }
+
+    public static void main(String args[]){
+
+      nikhil t=new nikhil();
+      t. show('a');
+    }
+}

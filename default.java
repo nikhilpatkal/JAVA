@@ -9,11 +9,11 @@ Scanner sc=new Scanner(System.in);
 int rollno;
 String name;
 String collage;
-nikhil(int roll,String name1,String collage1)
+nikhil()
 {
-rollno=roll;
-name=name1;
-collage=collage1;
+rollno=117;
+name="nikhil";
+collage="new art collage";
 }
 /*void getus()
 {
@@ -32,7 +32,7 @@ System.out.println("the collage name is"+collage);
 }
 public static void main(String [] args)
 {
-nikhil n1=new nikhil(117,"nikhil","new art");
+nikhil n1=new nikhil();
 n1.show();
 }
 }
